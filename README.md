@@ -5,4 +5,4 @@ A logistic regression classfier to recognize cats.
     - Initializing parameters     
     - Calculating the cost function and its gradient     
     - Using an optimization algorithm (gradient descent)  
-- Gather all three functions above into a main model function, in the right order.
+- Gathered all three functions above into a main model function, in the right order.
